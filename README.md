@@ -81,38 +81,81 @@
 
 ## 🎯 Projets Significatifs
 
-### **🧠 [Système de Recommandation Intelligent](https://github.com/meriam-hfaidhia/recommendation-system)**
-*Système de recommandation hybride utilisant du Deep Learning et des techniques de filtrage collaboratif*
-- **Technologies** : Python, TensorFlow, Scikit-learn, Pandas
-- **Fonctionnalités** : Recommandations personnalisées, traitement de données en temps réel
-- **Performance** : Augmentation de 30% de la pertinence des recommandations
+### **🏥 [NovaMedica : Système Médical Intelligent](https://github.com/MakkesAmine/Doxaria-Project.git)**
+*Plateforme médicale propulsée par l'IA pour l'automatisation des prescriptions médicales*
+- **Technologies** : YOLOv8, TrOCR, GPT-2, Sentence-BERT, React, FastAPI, MongoDB, Docker
+- **Fonctionnalités** : Extraction de données manuscrites, recommandations de traitements personnalisés, alternatives thérapeutiques
+- **Innovation** : Détection d'objets + extraction texte + génération recommandations en pipeline intégré
+- **Impact** : Suivi précis et sécurisé des prescriptions médicales avec recommandations IA
 
-### **📝 [Assistant IA avec RAG](https://github.com/meriam-hfaidhia/rag-assistant)**
-*Assistant intelligent utilisant l'architecture RAG pour des réponses contextuelles précises*
+### **📊 [Prédiction du Churn Clients Télécom avec MLOps](https://github.com/meriamhfaidhia/mlops_project.git)**
+*Pipeline MLOps complet pour l'analyse prédictive de désabonnement clients*
+- **Technologies** : Elasticsearch, Kibana, MLflow, Jenkins, Docker, MongoDB, PostgreSQL
+- **Fonctionnalités** : Collecte de logs, visualisation en temps réel, tests automatisés, déploiement conteneurisé
+- **Performance** : Prédictions en temps réel pour identifier les clients à risque
+- **Valeur** : Optimisation des stratégies de fidélisation avec pipeline industriel
+
+### **🚗 [SmartGate : Gestion d'Accès Automatisé](https://github.com/meriamhfaidhia/SmartGateAi.git)**
+*Système intelligent de contrôle d'accès par reconnaissance de plaques d'immatriculation*
+- **Technologies** : Computer Vision, React, MongoDB, Python, Génération QR Code
+- **Fonctionnalités** : Reconnaissance plaques, vérification base données, autorisations automatiques
+- **Workflow** : Employés → accès direct | Visiteurs → QR code par email | Inconnus → refus
+- **Reporting** : Génération automatique de rapports hebdomadaires et gestion temps réel
+
+### **👤 [Système de Présence par Reconnaissance Faciale](https://github.com/meriamhfaidhia/Face-Recognition-with-Real-Time-Database.git)**
+*Application computer vision pour suivi des présences en temps réel*
+- **Technologies** : OpenCV, Python, Base de données temps réel, Supabase
+- **Fonctionnalités** : Détection et reconnaissance faciale, enregistrement automatique, alertes anti-fraude
+- **Sécurité** : Prévention des doubles enregistrements avec système d'alerte
+- **Application** : Gestion automatisée des présences avec surveillance continue
+
+### **👐 [TalkHands : Traducteur Langue des Signes Temps Réel](https://github.com/meriamhfaidhia/Sign-Language-Detection-and-Speech-System.git)**
+*Application IA de traduction langue des signes vers parole en temps réel*
+- **Technologies** : MediaPipe, OpenCV, Machine Learning, Synthèse vocale
+- **Fonctionnalités** : Détection mouvements mains, reconnaissance signes, synthèse vocale naturelle
+- **Précision** : Reconnaissance haute précision des signes via webcam
+- **Impact Social** : Facilitation communication personnes sourdes/entendantes
+
+### **🤖 [Assistant IA avec Architecture RAG](https://github.com/meriam-hfaidhia/rag-assistant)**
+*Assistant intelligent utilisant RAG pour réponses contextuelles précises*
 - **Technologies** : LangChain, HuggingFace, FastAPI, PostgreSQL
-- **Fonctionnalités** : Recherche sémantique, génération de réponses contextuelles
-- **Innovation** : Réduction de 40% des hallucinations des modèles LLM
-
-### **🖼️ [Système de Classification d'Images](https://github.com/meriam-hfaidhia/image-classification)**
-*Classification d'images médicales avec réseaux de neurones convolutifs*
-- **Technologies** : PyTorch, OpenCV, Matplotlib
-- **Performance** : Accuracy de 95% sur les données de test
-- **Application** : Détection précoce de pathologies médicales
+- **Fonctionnalités** : Recherche sémantique, génération réponses contextuelles, réductions hallucinations
+- **Innovation** : Architecture RAG avancée avec fine-tuning pour besoins spécifiques
+- **Performance** : Réduction de 40% des hallucinations des modèles LLM
 
 ---
 
 ## 💼 Expérience Professionnelle
 
-### **AI Engineer | Entreprise XYZ** *(2023 - Présent)*
-- Développement de modèles de NLP pour l'analyse de sentiment
-- Mise en place de pipelines MLOps avec Docker et AWS
-- Optimisation des performances des modèles de 25%
+### **👩‍💻 Stagiaire Ingénieure en IA | MAE Assurance** 
+*Juin 2025 - Août 2025 | Tunis*
 
-### **Data Scientist | Startup ABC** *(2022 - 2023)*
-- Création de modèles prédictifs pour l'analyse de données clients
-- Implémentation de solutions de visualisation interactive
-- Réduction des coûts d'analyse de 40%
+**Projet : Plateforme MAEVO - Solutions RH Intelligentes**
+- Conception et développement d'une plateforme RH complète avec scoring automatique de CV
+- Intégration de Jitsi Meet pour les entretiens en ligne avec analyse multimodale (voix, visage, transcription, émotions)
+- Automatisation des emails de recrutement et assistance à la prise de décision RH par l'IA
+- **Technologies** : FastAPI, MongoDB, React.js, Tailwind CSS, Machine Learning, Deep Learning, NLP
+- **Impact** : Optimisation du processus de recrutement avec analyse objective des candidats
 
+### **🏦 Stagiaire Développeuse | BNA Banque** 
+*Juin 2024 - Août 2024 | Tunis*
+
+**Projet : Application Web de Recouvrement de Créances**
+- Développement full-stack d'une application de recouvrement amiable des créances
+- Architecture microservices avec Spring Boot (backend) et Angular (frontend)
+- Conception et test d'API REST avec Postman, gestion de base de données avec XAMPP
+- **Technologies** : Spring Boot, Angular, XAMPP, Postman, Java, TypeScript
+- **Résultat** : Solution web robuste pour optimiser le processus de recouvrement
+
+### **📊 Stagiaire Data Scientist | Arab Tunisian Bank** 
+*Décembre 2023 - Mai 2023 | Tunis*
+
+**Projet : Application de Gestion des Opérations Bancaires**
+- Développement d'une application PHP pour le suivi des opérations bancaires
+- Création de tableaux de bord Power BI pour la visualisation en temps réel des transactions
+- Analyse des données transactionnelles et génération de rapports automatisés
+- **Technologies** : PHP, MySQL, Power BI, Data Visualization, SQL
+- **Valeur Ajoutée** : Amélioration de la transparence et du monitoring des activités bancaires
 ---
 
 ## 📚 Publications & Contributions
