@@ -102,14 +102,14 @@
 - **Workflow** : Employés → accès direct | Visiteurs → QR code par email | Inconnus → refus
 - **Reporting** : Génération automatique de rapports hebdomadaires et gestion temps réel
 
-### **⚖️ [AIvocate : Analyse Automatique de Contrats & Emails Juridiques](https://github.com/meriamhfaidhia/aivocate-project.git)**
+### **⚖️ [AIvocate : Analyse Automatique de Contrats & Emails Juridiques](https://github.com/meriamhfaidhia/AIvocate.git)**
 *Audit juridique intelligent avec extraction, analyse, scoring et visualisation des risques contractuels*
 - **Technologies** : CamemBERT, BM25Retriever, FAISS, SerpAPI, pdfplumber, Hybrid RAG
 - **Fonctionnalités** : Analyse PDF contrats, traitement emails juridiques, scoring risques sur 100, recherche web enrichie
 - **Innovation** : Pipeline RAG hybride (lexical + sémantique) avec recherche Google intégrée
 - **Impact** : Détection automatique des clauses sensibles et génération de rapports structurés
 
-### **🧠 [NeuroScope : Segmentation et Visualisation d'IRM Cérébrales](https://github.com/meriamhfaidhia/neuroscope-project.git)**
+### **🧠 [NeuroScope : Segmentation et Visualisation d'IRM Cérébrales](https://github.com/meriamhfaidhia/NeuroScope.git)**
 *Plateforme IA médicale pour l'aide au diagnostic via segmentation 3D des tumeurs cérébrales*
 - **Technologies** : U-Net 3D, PyTorch, React/Vite, Node.js, MongoDB, Visualisation 3D
 - **Fonctionnalités** : Segmentation automatique IRM, calcul volumes tumoraux, comparaison multi-scans
