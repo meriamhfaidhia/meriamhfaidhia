@@ -102,6 +102,20 @@
 - **Workflow** : Employés → accès direct | Visiteurs → QR code par email | Inconnus → refus
 - **Reporting** : Génération automatique de rapports hebdomadaires et gestion temps réel
 
+### **⚖️ [AIvocate : Analyse Automatique de Contrats & Emails Juridiques](https://github.com/meriamhfaidhia/aivocate-project.git)**
+*Audit juridique intelligent avec extraction, analyse, scoring et visualisation des risques contractuels*
+- **Technologies** : CamemBERT, BM25Retriever, FAISS, SerpAPI, pdfplumber, Hybrid RAG
+- **Fonctionnalités** : Analyse PDF contrats, traitement emails juridiques, scoring risques sur 100, recherche web enrichie
+- **Innovation** : Pipeline RAG hybride (lexical + sémantique) avec recherche Google intégrée
+- **Impact** : Détection automatique des clauses sensibles et génération de rapports structurés
+
+### **🧠 [NeuroScope : Segmentation et Visualisation d'IRM Cérébrales](https://github.com/meriamhfaidhia/neuroscope-project.git)**
+*Plateforme IA médicale pour l'aide au diagnostic via segmentation 3D des tumeurs cérébrales*
+- **Technologies** : U-Net 3D, PyTorch, React/Vite, Node.js, MongoDB, Visualisation 3D
+- **Fonctionnalités** : Segmentation automatique IRM, calcul volumes tumoraux, comparaison multi-scans
+- **Innovation** : Visualisations interactives 2D/3D avec suivi temporel de l'évolution des tumeurs
+- **Application** : Assistance à la décision clinique et amélioration du suivi thérapeutique
+
 ### **👤 [Système de Présence par Reconnaissance Faciale](https://github.com/meriamhfaidhia/Face-Recognition-with-Real-Time-Database.git)**
 *Application computer vision pour suivi des présences en temps réel*
 - **Technologies** : OpenCV, Python, Base de données temps réel, Supabase
@@ -116,12 +130,6 @@
 - **Précision** : Reconnaissance haute précision des signes via webcam
 - **Impact Social** : Facilitation communication personnes sourdes/entendantes
 
-### **🤖 [Assistant IA avec Architecture RAG](https://github.com/meriam-hfaidhia/rag-assistant)**
-*Assistant intelligent utilisant RAG pour réponses contextuelles précises*
-- **Technologies** : LangChain, HuggingFace, FastAPI, PostgreSQL
-- **Fonctionnalités** : Recherche sémantique, génération réponses contextuelles, réductions hallucinations
-- **Innovation** : Architecture RAG avancée avec fine-tuning pour besoins spécifiques
-- **Performance** : Réduction de 40% des hallucinations des modèles LLM
 
 ---
 
@@ -156,30 +164,6 @@
 - Analyse des données transactionnelles et génération de rapports automatisés
 - **Technologies** : PHP, MySQL, Power BI, Data Visualization, SQL
 - **Valeur Ajoutée** : Amélioration de la transparence et du monitoring des activités bancaires
----
-
-## 📚 Publications & Contributions
-
-### **Articles Techniques**
-- *"Optimisation des architectures Transformer pour le traitement de langues peu dotées"* - Conférence IA 2023
-- *"Méthodologie de déploiement de modèles ML en production"* - Blog Technique
-
-### **Contributions Open Source**
-- **[Librairie ML]()** : Amélioration des algorithmes d'optimisation
-- **[Framework NLP]()** : Ajout de fonctionnalités de prétraitement
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-![AWS Certified ML](https://img.shields.io/badge/AWS_Machine_Learning-Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow Developer](https://img.shields.io/badge/TensorFlow_Developer-Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning Specialization](https://img.shields.io/badge/Deep_Learning-Specialization-00A98F?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📫 Contact & Réseaux
